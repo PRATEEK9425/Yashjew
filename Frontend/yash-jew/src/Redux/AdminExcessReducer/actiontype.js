@@ -1,0 +1,3 @@
+export const Adminexcess_EMAIL_POST= "Adminexcess_EMAIL_POST"
+export const Adminexcess_EMAIL_POST_SUCCESSFUL= "Adminexcess_EMAIL_POST_SUCCESSFUL"
+export const Adminexcess_EMAIL_POST_FAILURE= "Adminexcess_EMAIL_POST_FAILURE"
